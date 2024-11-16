@@ -2,8 +2,8 @@ Package: randomDataGenerators
 Type: Package
 Title: Random Data Generators
 Version: 0.1.0
-Author: rtmali]
-Maintainer: Your Name <your.email@example.com>
+Author: rtmali
+Maintainer: rtmali
 Description: A package for generating random data, including categorical variable, numeric data, time series data, binary data, custom distribution data, multivariate data and poisson data.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -16,5 +16,5 @@ Suggests:
     testthat,
     devtools,
     covr
-URL: https://github.com/yourusername/randomDataGenerators
-BugReports: https://github.com/yourusername/randomDataGenerators/issues
+URL: https://github.com/rtmali/cs50r/tree/main/RandomDataGenerators
+BugReports: https://github.com/rtmali/cs50r/tree/main/RandomDataGenerators/issues
