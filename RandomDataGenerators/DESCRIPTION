@@ -17,4 +17,5 @@ Suggests:
     devtools,
     covr
 URL: https://github.com/rtmali/cs50r/tree/main/RandomDataGenerators
+Video: 
 BugReports: https://github.com/rtmali/cs50r/tree/main/RandomDataGenerators/issues
